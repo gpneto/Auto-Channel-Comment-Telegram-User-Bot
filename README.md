@@ -3,14 +3,14 @@ A telegram userbot to automatically comment in channel on new posts.
 <h4>Version: 2.1</h4>
 
 <h3> Deploy To Heroku</h3>
-<a href="https://heroku.com/deploy?template=https://github.com/SastaDev/Auto-Channel-Comment-Telegram-User-Bot/">
+<a href="https://heroku.com/deploy?template=https://github.com/gpneto/Auto-Channel-Comment-Telegram-User-Bot/">
 <img src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png">
 </img>
-<a href="https://heroku.com/deploy?template=https://github.com/SastaDev/Auto-Channel-Comment-Telegram-User-Bot/">Deploy to heroku</a>
+<a href="https://heroku.com/deploy?template=https://github.com/gpneto/Auto-Channel-Comment-Telegram-User-Bot/">Deploy to heroku</a>
 </a>
 
 <h3> Workflow Support Too</h3>
-Can run on gitHub workflow. check "<a href='https://github.com/SastaDev/Auto-Channel-Comment-Telegram-User-Bot/tree/main/.github/workflows'>.github/workflows</a>".
+Can run on gitHub workflow. check "<a href='https://github.com/gpneto/Auto-Channel-Comment-Telegram-User-Bot/tree/main/.github/workflows'>.github/workflows</a>".
 
 <h3> CircleCI Support Too</h3>
 Can run on CircleCI.com. check "<a href='https://github.com/SastaDev/Auto-Channel-Comment-Telegram-User-Bot/tree/main/.circleci'>.circleci</a>".
